@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+img{
+    border-radius: 50%;
+    border: 2px solid blue;
+  background-color: coral;
+  margin-top: 150px;
+  margin-left: 450px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  width: 300px;
+  height: 300px;
+}

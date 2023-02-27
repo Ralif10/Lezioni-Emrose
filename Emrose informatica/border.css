@@ -1,0 +1,13 @@
+h1{
+    border: solid red;
+}
+h2{
+    border: dotted blue;
+}
+h3{
+    border: double;
+    color: purple;
+}
+p{
+    border: solid green;
+}
