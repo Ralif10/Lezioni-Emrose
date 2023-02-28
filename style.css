@@ -21,5 +21,47 @@
     background-color: #555;
     border-radius: 50%;
   }
+  .row{
+    background-color: yellow;
 
+  }
+
+  .container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+  }
   
+
+
+  .roof{
+    background-color: white;
+  }
+
+  .triangle{
+    width: 0;
+    height: 0;
+    border-left: 40vw solid transparent;
+    border-right: 40vw solid transparent;
+    border-bottom: 10vw solid red;
+    margin: auto;
+  }
+
+
+  .window{
+    height: 160px;
+    width: 100px;
+    background-color: skyblue;
+  }
+
+  .door{
+    height: 200px;
+    width: 150px;
+    background-color: brown;
+  }
+
+  .empty{
+    height: 70px;
+  }

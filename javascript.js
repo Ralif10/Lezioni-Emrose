@@ -107,7 +107,7 @@ function SubtractTwoNumber(n1,n2){
     return n1+n2;
 }
 
-function Power(5){
+function Power(){
     return n1*n1
 
 }
